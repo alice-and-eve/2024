@@ -69,22 +69,6 @@ Details regarding the poster contest will update soon.
 ## Exhibition
 
 Details regarding the exhibition will update soon.
-<!--
-In addition to the keynote talks and the posters, there will be an exhibition which portrays thirty women in computing
-and their most important contributions.
-
-Some highlights of the exhibition:
-
-- **Grace Hopper** who created the world’s first workable compiler;
-- **Ada Lovelace** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose
-  computer, and the first published algorithm;
-- **Rosalind Picard** and her work on Affective Computing which is a combination of Computer Science, Psychology,
-  Physiology and Cognitive Sciences;
-- **Frances Brazier** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.
-
-More information on these women, and many others, can be found at the exhibition and
-the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
--->
 
 ## Speakers
 
@@ -109,13 +93,6 @@ During the conference, there will be the possibility for attendees to advertise 
 ## Advisory Committee
 
 Details regarding the advisory committee will update soon.
-<!--
-- [Peter Bloem](https://peterbloem.nl/), Vrije Universiteit Amsterdam (VU)
-- [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html), Universiteit van Amsterdam (UvA)
-- [Paola Grosso](https://staff.fnwi.uva.nl/p.grosso/index.html), Universiteit van Amsterdam (UvA)
-- [Lynda Hardman](https://homepages.cwi.nl/~lynda/), Centrum Wiskunde & Informatica (CWI)
-- [Animesh Kumar Trivedi](https://animeshtrivedi.github.io/), Vrije Universiteit Amsterdam (VU)
--->
 
 ## Steering committee
 
