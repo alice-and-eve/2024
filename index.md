@@ -26,8 +26,8 @@ Alice & Eve will take place on October 25th, 2024.
 ### Venue:
 
 The workshop will be held at Leiden University at Leiden.
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.8666068656294!2d4.95200197667113!3d52.35470457201834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6093794c982b7%3A0x5ba7c8690917b951!2sLab42!5e0!3m2!1snl!2snl!4v1697828221735!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1szh-CN!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.8666068656294!2d4.95200197667113!3d52.35470457201834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6093794c982b7%3A0x5ba7c8690917b951!2sLab42!5e0!3m2!1snl!2snl!4v1697828221735!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Registration:
 
@@ -39,10 +39,12 @@ Details regarding the registration will follow soon.
 
 ## Program
 
+Details regarding the timeline will update soon.
+
+<!--
 | Time |  |
 |---|---|
-Details regarding the timeline will update soon.
-<!--| 09.30 - 09.50  | Registration & welcome coffee (L3.36)|
+| 09.30 - 09.50  | Registration & welcome coffee (L3.36)|
 | 09.50 - 10.00  | Opening (L1.02, for all talks)|
 | 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
 | 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - Distributed Access Control: Bridging Trustworthiness and Transparency in Cross-Organizational Data Sharing |
@@ -56,7 +58,8 @@ Details regarding the timeline will update soon.
 | 15.30 - 16.00  | Coffee Break (L3.36) |
 | 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology** (speakers: Emma Beauxis-Aussalet, Hinda Haned, Iffat Rose Gill; moderator: Paola Grosso)
 | 16.50 - 17.00  | Poster Prizes + closing |
-| 17.00 - 18.00  | Drinks and socials (L3.36) |-->
+| 17.00 - 18.00  | Drinks and socials (L3.36) |
+-->
 
 ## Poster Contest
 
