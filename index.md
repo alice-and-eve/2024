@@ -183,7 +183,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
       <img src="assets/sponsors-logo/uva-logo.png" alt="Logo UvA" style="max-width: 100%">
     </div>-->
     <div class="margin-top">
-      <img src="assets/sponsors-logo/Leiden-University-logo.jpg" alt="Logo VU" style="max-width: 100%">
+      <img src="assets/sponsors-logo/Leiden-University-logo.jpg" alt="Logo LU" style="max-height: 100px; max-width: 100%">
     </div>
     <!--<div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
