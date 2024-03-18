@@ -1,9 +1,9 @@
 # Site settings
-title: Biscuit Theme for Jekyll
-tag_text: Biscuit
-description: Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
-# baseurl: "/blog" # the subpath of your site, e.g. /blog
-# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+title: Alice & Eve 2024
+tag_text: Alice & Eve
+description: Alice and Eve is an event to celebrate women in computing!
+baseurl: "/2024" # the subpath of your site, e.g. /blog
+url: "https://alice-and-eve.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-seo-tag
