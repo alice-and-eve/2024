@@ -179,15 +179,15 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
 
 <div style="text-align: center">
   <div class="sponsors orga">
-    <div class="margin-top">
+    <!--<div class="margin-top">
       <img src="assets/sponsors-logo/uva-logo.png" alt="Logo UvA" style="max-width: 100%">
-    </div>
+    </div>-->
     <div class="margin-top">
-      <img src="assets/sponsors-logo/VU-logo.png" alt="Logo VU" style="max-width: 100%">
+      <img src="assets/sponsors-logo/Leiden-University-logo.jpg" alt="Logo VU" style="max-width: 100%">
     </div>
-    <div class="margin-top">
+    <!--<div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
-    </div>
+    </div>-->
   </div>
 </div>
 ## Contact Us
