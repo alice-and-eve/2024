@@ -65,6 +65,7 @@ Details regarding the timeline will update soon.
 
 Details regarding the poster contest will update soon.
 <!--
+HHH
 We invited all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. Twenty-five posters were short listed for display during the event, where the following winners were chosen:
 
 **Winner: Shruti Rao**
