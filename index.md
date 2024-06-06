@@ -72,7 +72,14 @@ Details regarding the exhibition will update soon.
 
 ## Speakers
 
-Details regarding the timeline will update soon.
+We have invited some inspiring women working on the cutting edge of computing. Confirmed speakers include:
+
+- [Katja Tuma](https://katjatuma.github.io/), Assistant professor at VU Amsterdam
+- [Anna Sperotto](https://annasperotto.org/), Associate professor at U Twente
+- [Gabriele Keller](https://www.uu.nl/staff/GKKeller), Professor at U Utrecht
+- [Anna Wilbik](https://www.maastrichtuniversity.nl/m-wilbik), Professor at U Maastricht
+- [Niki van Stein](https://www.nikivanstein.nl/), Assistant professor U Leiden
+- [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/), Professor at U Leiden
 
 ## Jobs Board
 
