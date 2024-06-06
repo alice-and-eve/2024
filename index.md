@@ -74,12 +74,25 @@ Details regarding the exhibition will update soon.
 
 We have invited some inspiring women working on the cutting edge of computing. Confirmed speakers include:
 
-- [Katja Tuma](https://katjatuma.github.io/), Assistant professor at VU Amsterdam
-- [Anna Sperotto](https://annasperotto.org/), Associate professor at U Twente
-- [Gabriele Keller](https://www.uu.nl/staff/GKKeller), Professor at U Utrecht
-- [Anna Wilbik](https://www.maastrichtuniversity.nl/m-wilbik), Professor at U Maastricht
-- [Niki van Stein](https://www.nikivanstein.nl/), Assistant professor U Leiden
-- [Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/), Professor at U Leiden
+- **[Katja Tuma](https://katjatuma.github.io/)**, Assistant professor at VU Amsterdam
+  In 2021 I joined the Foundational and Experimental Security research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at Vrije Universiteit Amsterdam within the Computer Systems group. I hold a Ph.D. in Computer Science and Engineering, which I completed at the University of Gothenburg. I am an active member of EUGAIN (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
+  
+- **[Anna Sperotto](https://annasperotto.org/)**, Associate professor at U Twente
+  I am an Associate Professor at the Design and Analysis of Communication Systems (DACS) group at the University of Twente. My research interests lays in the field of Internet Security and Internet measurements. On Octber 14, 2010, I defended my thesis “Flow-based Intrusion Detection”, at the University of Twente.
+  
+- **[Gabriele Keller](https://www.uu.nl/staff/GKKeller)**, Professor at U Utrecht
+  My main research interests are functional programming, type systems, high-performance computing, and programming language based approaches to verification. I'm also interested in teaching of functional programming, and have co-authored the (still incomplete) Learning Haskell Tutorial together with Manuel Chakravarty.
+  
+- **[Anna Wilbik](https://www.maastrichtuniversity.nl/m-wilbik)**, Professor at U Maastricht
+  I am a researcher who aims at bridging the gap between the meaning of data and human understanding in complex application environments, where data can be of various natures. I am also an academic teacher and mentor, who believes that students learn most, when they are given responsibility and freedom in their learning process. I believe in an international orientation in research and teaching and a balance between academic, curiosity-driven research and industrial, problem-oriented research.
+  
+- **[Niki van Stein](https://www.nikivanstein.nl/)**, Assistant professor U Leiden
+  Dr. Niki van Stein is a researcher, heading the XAI group, which is part of the Natural Computing Cluster of LIACS, and manager of the applied data science lab. She received her PhD in Computer Science from Leiden University in 2018. Niki’s research interest are in eXplainable AI for automated machine learning, global (Bayesian) optimization and neural architecture search. She mostly works on research with direct applications in industry, such as predictive maintenance, car and ship design optimization and schedule optimization.
+  
+- **[Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/)**, Professor at U Leiden
+  I am a researcher in Natural Language Processing (NLP) and Information Retrieval (IR). My research focus is text mining and information retrieval in specific domains. I am a Full Professor at the Leiden Institute of Advanced Computer Science (LIACS). I am group leader of Text Mining and Retrieval Leiden.
+  My vision is that domain-specific challenges can enable breakthroughs in computer science; more specifically in my fields NLP and IR. I currently supervise projects that develop and evaluate NLP and retrieval methods in a diversity of domains. I am work package leader for two H2020 projects and project co-leader of an NWA project.
+  My group works on novel methods for representation learning, ranking, and information extraction. We work with a large diversity of textual data: archaeological reports, patents, scientific and legal publications, health records, newspaper texts, user-generated content in online patient communities (discussion forums), and posts on social media.
 
 ## Jobs Board
 
