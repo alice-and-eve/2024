@@ -146,7 +146,13 @@ This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment po
 ## Our Sponsors
 
 We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Eleftheria Makri <e.makri@liacs.leidenuniv.nl>?subject=[Alice and Eve 2024] Sponsoring) for more information and a discussion on how your organization could support the 5th Alice and Eve workshop.
-
+<div style="text-align: center">
+  <div class="sponsors orga">
+    <div class="margin-top">
+      <img  src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-height: 100px; max-width: 100%">
+    </div>
+  </div>
+</div>
 <!--
 <div style="text-align: center">
   <div class="sponsors orga">
