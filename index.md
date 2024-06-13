@@ -149,7 +149,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
-      <img  src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-height: 100px; max-width: 100%">
+      <img  src="assets/sponsors-logo/ASCI_Logo.gif" alt="Logo ASCI" style="max-height: 100px; max-width: 100%">
     </div>
   </div>
 </div>
