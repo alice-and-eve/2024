@@ -7,7 +7,7 @@ layout: default
 <!-- **Did you attend Alice & Eve 2024? Please fill out our feedback form: [https://forms.gle/cFKzTXHZQpLtyMY17](https://forms.gle/cFKzTXHZQpLtyMY17)**-->
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
-Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted on **25 October 2024** by the Leiden University.
+Alice & Eve aims to bring together talents in the field of computing. The fifth edition of this workshop will be hosted on **25 October 2024** by the Leiden University.
 
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/), [2022](https://alice-and-eve.github.io/2022/) and [2023](https://alice-and-eve.github.io/2023/).
 
