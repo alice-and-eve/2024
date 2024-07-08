@@ -155,6 +155,11 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
     <div class="margin-top">
       <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
     </div>
+ </div>
+</div>
+
+<div style="text-align: center">
+  <div class="sponsors orga">
     <div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
     </div>
