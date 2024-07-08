@@ -158,6 +158,9 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
     <div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
     </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
+    </div>
  </div>
 </div>
 
@@ -171,9 +174,6 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
       <img src="assets/sponsors-logo/BetterBe Corporate Identity files 001/betterbe-logo-rgb.png" alt="Logo BetterBe" style="max-width: 100%">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
-    </div>
-    <div class="margin-top">
       <img src="assets/sponsors-logo/TOPdesk_RGB_Logo_Tagline.png" alt="Logo TOPDesk" style="max-width: 100%">
     </div>
  </div>
@@ -183,9 +183,6 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
   <div class="sponsors orga">
     <div class="margin-top">
       <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
-    </div>
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 100%">
     </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/siks300.png" alt="Logo SIKS" style="max-width: 100%">
