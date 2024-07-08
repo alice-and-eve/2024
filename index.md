@@ -162,7 +162,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
       <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
+      <img src="assets/sponsors-logo/nxp-logo.png" alt="Logo NXP" style="max-width: 100%">
     </div>
  </div>
 </div>
