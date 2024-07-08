@@ -161,6 +161,9 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
     <div class="margin-top">
       <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
     </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
+    </div>
  </div>
 </div>
 
