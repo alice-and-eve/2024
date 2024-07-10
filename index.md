@@ -66,7 +66,16 @@ Details regarding the poster contest will update soon.
 
 ## Exhibition
 
-Details regarding the exhibition will update soon.
+In addition to the keynote talks and the posters, there will be an [exhibition](https://www.aliceandeve.nl/home) which portrays thirty women in computing and their most important contributions.
+
+Some highlights of the exhibition:
+
+- **[Grace Hopper]()** who created the world’s first workable compiler;
+- **[Ada Lovelace]()** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- **[Rosalind Picard]()** and her work on Affective Computing which is a combination of Computer Science, Psychology, Physiology and Cognitive Sciences;
+- **[Frances Brazier]()** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.
+More information on these women, and many others, can be found at the exhibition
+
 
 ## Speakers
 
