@@ -70,12 +70,13 @@ In addition to the keynote talks and the posters, there will be an [exhibition](
 
 Some highlights of the exhibition:
 
-- **[Grace Hopper]()** who created the world’s first workable compiler;
-- **[Ada Lovelace]()** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
-- **[Rosalind Picard]()** and her work on Affective Computing which is a combination of Computer Science, Psychology, Physiology and Cognitive Sciences;
-- **[Frances Brazier]()** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.
-More information on these women, and many others, can be found at the exhibition
+- [Ada Lovelace](https://www.aliceandeve.nl/exhibition/ada-lovelace) who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- [Grace Hopper](https://www.aliceandeve.nl/exhibition/grace-hopper) who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
+- [The Bletchley Park Codebreakers](https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-) included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
+More information on these women, and many others, can be found at the [exhibition](https://www.aliceandeve.nl/home).
+
+Fantastic **[coding games](https://www.aliceandeve.nl/games)** and **[media](https://www.aliceandeve.nl/gallery)** - which include videos and podcasts related to women in computing - are also offered.
 
 ## Speakers
 
