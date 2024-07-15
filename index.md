@@ -185,7 +185,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
-      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 100%">
+      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 50%">
     </div>
  </div>
 </div>
