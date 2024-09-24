@@ -55,7 +55,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** speakers: Francien Deshesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
 | 17:00 - 18:00  | Goodbye Drinks |
 
-
+<!--
 | Time |  |
 |---|---|
 | 09.30 - 09.50  | Registration & welcome coffee (L3.36)|
@@ -73,6 +73,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology** (speakers: Emma Beauxis-Aussalet, Hinda Haned, Iffat Rose Gill; moderator: Paola Grosso)
 | 16.50 - 17.00  | Poster Prizes + closing |
 | 17.00 - 18.00  | Drinks and socials (L3.36) |
+-->
 
 ## Poster Contest
 
