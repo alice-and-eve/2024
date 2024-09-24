@@ -37,7 +37,24 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 ## Program
 
-Details regarding the timeline will update soon.
+| Time |  |
+|---|---|
+| 09:30 - 10:00  | Welcome coffee |
+| 10:00 - 10:10  | Opening |
+| 10:10 - 10:40  | Talk: **Suzan Verberne** (Leiden University) - The role of truth in Large Language Models |
+| 10:40 - 11:10  | Talk: **Anna Sperotto** (University of Twente) - Title |
+| 11:10 - 11:30  | Coffee Break |
+| 11:30 - 12:00  | Talk: **Niki van Steen** (Leiden University)- Explainable Artificial Intelligence, Identifying the Dimensions that Matter |
+| 12:00 - 12:30  | Talk: **Gabriele Keller** (University of Utrecht) - Title |
+| 12:30 - 14:00  | Lunch & Exhibition |
+| 14:00 - 14:30  | Computing in Industry: Lightning Talks |
+<!--Lightning Talks by Company, Company and Company-->
+| 14:30 - 15:00  | Talk: **Katja Tuma** (Vrije University Amsterdam) - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
+| 15:00 - 15:30  | Coffee Break |
+| 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - Federated learning – a hype or a trend? |
+| 16:00 - 16:15  | Poster Awards |
+| 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** speakers: Francien Deshesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
+| 17:00 - 18:00  | Goodbye Drinks |
 
 <!--
 | Time |  |
