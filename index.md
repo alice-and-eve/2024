@@ -39,7 +39,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 | Time |  |
 |---|---|
-| 09.30 - 10.00  | Welcome coffee |
+| 09:30 - 10:00  | Welcome coffee |
 | 10:00 - 10:10  | Opening |
 | 10:10 - 10:40  | Talk: **Suzan Verberne** (Leiden University) - The role of truth in Large Language Models |
 | 10:40 - 11:10  | Talk: **Anna Sperotto** (University of Twente) - Title |
@@ -55,29 +55,21 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** speakers: Francien Deshesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
 | 17:00 - 18:00  | Goodbye Drinks |
 
-<!--
-| Time |  |
-|---|---|
-| 09.30 - 09.50  | Registration & welcome coffee (L3.36)|
-| 09.50 - 10.00  | Opening (L1.02, for all talks)|
-| 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
-| 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - Distributed Access Control: Bridging Trustworthiness and Transparency in Cross-Organizational Data Sharing |
-| 11.00 - 11.30  | Coffee Break (L3.36) |
-| 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
-| 12.00 - 12.30  | Talk: **Lynda Hardman** - Exploring Relations in Neuroscience Literature using Augmented Reality |
-| 12.30 - 14.00  | Lunch + Poster session + Exhibition  (L3.36) |
-| 14.00 - 14.30  | Sponsor Lightning Talks (L1.02, for all talks)|
-| 14.30 - 15.00  | Talk: **Marieke van Erp** - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
-| 15.00 - 15.30  | Talk: **Rianne van den Berg** - AI for the natural sciences|
-| 15.30 - 16.00  | Coffee Break (L3.36) |
-| 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology** (speakers: Emma Beauxis-Aussalet, Hinda Haned, Iffat Rose Gill; moderator: Paola Grosso)
-| 16.50 - 17.00  | Poster Prizes + closing |
-| 17.00 - 18.00  | Drinks and socials (L3.36) |
--->
-
 ## Poster Contest
 
-Details regarding the poster contest will update soon.
+We are thrilled to announce the Alice & Eve 2024 poster contest with exciting prizes awaiting the winners! 
+
+Alice & Eve is a free one-day workshop celebrating women in computing. This year the event takes place on 25 October 2024 at Leiden University and features inspiring keynote talks, a poster contest, and an exhibition honouring remarkable women in the field.
+
+We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
+
+To enter the poster contest, please write a half-page abstract (word limit for abstract is set to 250 words) on the topic of your poster and submit it by 1 October 2024 through [EasyChair](https://easychair.org/conferences/?conf=aliceeve2024)
+
+Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
+
+Notifications will be sent out by 11 October 2024. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Leiden to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
+
+If you have any questions, don't hesitate to get in touch. We look forward to seeing you in Leiden!
 
 
 ## Exhibition
