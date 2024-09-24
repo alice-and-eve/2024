@@ -57,11 +57,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 ## Poster Contest
 
-We are thrilled to announce the Alice & Eve 2024 poster contest with exciting prizes awaiting the winners! 
-
-Alice & Eve is a free one-day workshop celebrating women in computing. This year the event takes place on 25 October 2024 at Leiden University and features inspiring keynote talks, a poster contest, and an exhibition honouring remarkable women in the field.
-
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
+We are thrilled to announce the Alice & Eve 2024 poster contest with exciting prizes awaiting the winners! We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
 
 To enter the poster contest, please write a half-page abstract (word limit for abstract is set to 250 words) on the topic of your poster and submit it by 1 October 2024 through [EasyChair](https://easychair.org/conferences/?conf=aliceeve2024)
 
