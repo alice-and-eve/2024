@@ -42,9 +42,9 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 09:30 - 10:00  | Welcome coffee |
 | 10:00 - 10:10  | Opening |
 | 10:10 - 10:40  | Talk: **Suzan Verberne** (Leiden University) - The role of truth in Large Language Models |
-| 10:40 - 11:10  | Talk: **Anna Sperotto** (University of Twente) - Title |
+| 10:40 - 11:10  | Talk: **Niki van Steen** (Leiden University)- Explainable Artificial Intelligence, Identifying the Dimensions that Matter |
 | 11:10 - 11:30  | Coffee Break |
-| 11:30 - 12:00  | Talk: **Niki van Steen** (Leiden University)- Explainable Artificial Intelligence, Identifying the Dimensions that Matter |
+| 11:30 - 12:00  | Talk: **Anna Sperotto** (University of Twente) - Title |
 | 12:00 - 12:30  | Talk: **Gabriele Keller** (University of Utrecht) - Title |
 | 12:30 - 14:00  | Lunch & Exhibition |
 | 14:00 - 14:30  | Computing in Industry: Lightning Talks |
