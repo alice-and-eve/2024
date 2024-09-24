@@ -48,7 +48,6 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 12:00 - 12:30  | Talk: **Gabriele Keller** (University of Utrecht) - Title |
 | 12:30 - 14:00  | Lunch & Exhibition |
 | 14:00 - 14:30  | Computing in Industry: Lightning Talks |
-<!--Lightning Talks by Company, Company and Company-->
 | 14:30 - 15:00  | Talk: **Katja Tuma** (Vrije University Amsterdam) - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
 | 15:00 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - Federated learning – a hype or a trend? |
