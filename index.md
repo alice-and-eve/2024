@@ -39,7 +39,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 | Time |  |
 |---|---|
-| 09:30 - 10:00  | Welcome coffee |
+| 09.30 - 10.00  | Welcome coffee |
 | 10:00 - 10:10  | Opening |
 | 10:10 - 10:40  | Talk: **Suzan Verberne** (Leiden University) - The role of truth in Large Language Models |
 | 10:40 - 11:10  | Talk: **Anna Sperotto** (University of Twente) - Title |
