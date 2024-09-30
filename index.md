@@ -78,7 +78,7 @@ Some highlights of the exhibition:
 - [Grace Hopper](https://www.aliceandeve.nl/exhibition/grace-hopper) who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
 - [The Bletchley Park Codebreakers](https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-) included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
-More information on these women, and many others, can be found at the [exhibition booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
+More information can be found at the [exhibition booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
 
 Fantastic **[coding games](https://www.aliceandeve.nl/games)** and **[media](https://www.aliceandeve.nl/gallery)** - which include videos and podcasts related to women in computing - are also offered.
 
