@@ -48,7 +48,9 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 12:00 - 12:30  | Talk: **Gabriele Keller** (University of Utrecht) - A pragmatic approach to verified compilation |
 | 12:30 - 14:00  | Lunch & Exhibition |
 | 14:00 - 14:30  | Computing in Industry: Lightning Talks |
-| 14:30 - 15:00  | Talk: **Katja Tuma** (Vrije University Amsterdam) - Gender in Security Decision Making: Research and Impact  |
+| 14:30 - 15:00  | Talk: **Katja Tuma** (Vrije University Amsterdam) - Gender in Security Decision Making: Research and Impact  
+
+Now, more than ever, we must investigate how software security decisions are made. The demand for security expertise is rising, and there is a global shortage in the security workforce. More specifically, a significant gender gap exists in the field of security and privacy. But does gender play a role when technical security decisions are made? What gender biases exist in our communities, and how can we begin to break these stereotypes? In this talk, I will guide you through our recent scientific discoveries and diversity and inclusion efforts, aiming to inspire change among computer science students in the Netherlands.|
 | 15:00 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - Federated learning – a hype or a trend? |
 | 16:00 - 16:15  | Poster Awards |
