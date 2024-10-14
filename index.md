@@ -33,7 +33,7 @@ The workshop will be held at PLNT, Leiden.
 
 The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
-[SIGN UP HERE](https://forms.office.com/e/BckrsM54dj)
+<!--[SIGN UP HERE](https://forms.office.com/e/BckrsM54dj)-->
 
 ## Program
 
