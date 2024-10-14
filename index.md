@@ -25,7 +25,7 @@ Alice & Eve will take place on October 25th, 2024.
 
 ### Venue:
 
-The workshop will be held at PLNT, Leiden.
+The workshop will be held in The Launch on the second floor of PLNT, Leiden.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4894.777675507259!2d4.489776676910258!3d52.16362346255315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6935ca128d3%3A0x8979448a419f89c4!2sPLNT%20Leiden!5e0!3m2!1sen!2snl!4v1727699287973!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
@@ -39,15 +39,15 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 | Time |  |
 |---|---|
-| 09:30 - 10:00  | Welcome coffee |
-| 10:00 - 10:10  | Opening |
+| 09:30 - 10:00  | Welcome coffee (The Launch)|
+| 10:00 - 10:10  | Opening (The Launch)|
 | 10:10 - 10:40  | Talk: **Suzan Verberne** (Leiden University) - **The role of truth in Large Language Models** |
 | 10:40 - 11:10  | Talk: **Niki van Steen** (Leiden University)- **Explainable Artificial Intelligence, Identifying the Dimensions that Matter**<br>In an era where artificial intelligence (AI) plays an increasingly critical role in decision-making, Explainable AI (XAI) emerges as a powerful tool to ensure transparency and accountability. This talk will explore the importance of explainability in AI, particularly in domains where models are often viewed as "black boxes." Through the lens of my own experiences, I will emphasize how each of us, with our unique genetic and experiential makeup, contributes to a diverse landscape in which we should search for dimensions that matter instead of dimensions that differentiate, both in AI and real life.<br>Drawing on real-world applications in fields like predictive maintenance and plant breeding, I will introduce the key challenges facing XAI today: how to meaningfully benchmark explainability methods, address bias, and handle complex non-linear interactions in time-series data. I will also highlight the role of global sensitivity analysis in explaining deep neural networks with large feature sets, and the novel use of evolutionary computation for multi-objective counterfactuals in time-series classification.<br>Ultimately, the talk will underscore the value of using XAI to help AI "teach us," fostering deeper insights into both technology and ourselves. |
 | 11:10 - 11:30  | Coffee Break |
 | 11:30 - 12:00  | Talk: **Antonia Affinito** (University of Twente) - Title |
 | 12:00 - 12:30  | Talk: **Gabriele Keller** (University of Utrecht) - **A pragmatic approach to verified compilation** |
 | 12:30 - 14:00  | Lunch & Exhibition |
-| 14:00 - 14:30  | Computing in Industry: Lightning Talks |
+| 14:00 - 14:30  | Sponsor Lightning Talks (The Launch, for all talks) |
 | 14:30 - 15:00  | Talk: **Katja Tuma** (Vrije University Amsterdam) - **Gender in Security Decision Making: Research and Impact**<br> Now, more than ever, we must investigate how software security decisions are made. The demand for security expertise is rising, and there is a global shortage in the security workforce. More specifically, a significant gender gap exists in the field of security and privacy. But does gender play a role when technical security decisions are made? What gender biases exist in our communities, and how can we begin to break these stereotypes? In this talk, I will guide you through our recent scientific discoveries and diversity and inclusion efforts, aiming to inspire change among computer science students in the Netherlands.|
 | 15:00 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - **Federated learning – a hype or a trend?** |
