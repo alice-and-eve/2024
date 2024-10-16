@@ -128,10 +128,6 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Shuang Sun](https://www.universiteitleiden.nl/en/staffmembers/shuang-sun#tab-1), Leiden University
 
 
-## Advisory Committee
-
-Details regarding the advisory committee will update soon.
-
 ## Steering committee
 
 - [Marieke Huisman](https://people.utwente.nl/m.huisman), Universiteit Twente (UT)
