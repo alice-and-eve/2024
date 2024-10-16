@@ -52,7 +52,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 15:00 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - **Federated learning – a hype or a trend?** |
 | 16:00 - 16:15  | Poster Awards |
-| 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** Speakers: Francien Dechesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
+| 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** Speakers: [Francien Dechesne](https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne#tab-1) (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
 | 17:00 - 18:00  | Goodbye Drinks |
 
 ## Poster Contest
