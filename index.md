@@ -134,7 +134,12 @@ Details regarding the advisory committee will update soon.
 
 ## Steering committee
 
-Details regarding the steering committee will update soon.
+- [Marieke Huisman](https://people.utwente.nl/m.huisman), Universiteit Twente (UT)
+- [Sophie Lathouwers](https://wwwhome.ewi.utwente.nl/~lathouwerssam/), Universiteit Twente (UT)
+- [Cynthia Liem](https://www.cynthialiem.com/), Technische Universiteit Delft (TUD)
+- [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), Universiteit Twente (UT)
+- [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Technische Universiteit Eindhoven (TU/e)
+- [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), Universiteit Twente (UT)
 
 ## Code of Conduct
 Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
