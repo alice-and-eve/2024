@@ -52,7 +52,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 15:00 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Anna Wilbik** (University of Maastricht) - **Federated learning – a hype or a trend?** |
 | 16:00 - 16:15  | Poster Awards |
-| 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** Speakers: Francien Deshesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
+| 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** Speakers: Francien Dechesne (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
 | 17:00 - 18:00  | Goodbye Drinks |
 
 ## Poster Contest
@@ -63,19 +63,19 @@ To enter the poster contest, please write a half-page abstract (word limit for a
 
 Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
-Notifications will be sent out by 11 October 2024. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Leiden to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
+Notifications will be sent out by 11 October 2024. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) scribed by their abstract with them to Lein to present during the poster session. At the end of the day, prizes will be award for the winning posters in each category.
 
-If you have any questions, don't hesitate to get in touch. We look forward to seeing you in Leiden!
+If you have any questions, don't hesitate to get in touch. We look forward to seeing you in Lein!
 
 
 ## Exhibition
 
-In addition to the keynote talks and the posters, there will be an [exhibition](https://www.aliceandeve.nl/home) which portrays thirty women in computing and their most important contributions.
+In addition to the keynote talks and the posters, there will be an [exhibition](https://www.aliceanve.nl/home) which portrays thirty women in computing and their most important contributions.
 
 Some highlights of the exhibition:
 
-- [Ada Lovelace](https://www.aliceandeve.nl/exhibition/ada-lovelace) who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
-- [Grace Hopper](https://www.aliceandeve.nl/exhibition/grace-hopper) who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
+- [Ada Lovelace](https://www.aliceanve.nl/exhibition/ada-lovelace) who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- [Grace Hopper](https://www.aliceanve.nl/exhibition/grace-hopper) who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
 - [The Bletchley Park Codebreakers](https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-) included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
 More information can be found at the [exhibition booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
