@@ -33,6 +33,8 @@ The workshop will be held in The Launch on the second floor of PLNT, Leiden.
 
 The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
+REGISTRATION IS CLOSED!
+
 <!--[SIGN UP HERE](https://forms.office.com/e/BckrsM54dj)-->
 
 ## Program
